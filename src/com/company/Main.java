@@ -21,8 +21,8 @@ public class Main {
     }
         public static void main(String[] args) {
             int choice;
-            Contact Hudson = new Contact("Hudson" , "ats@gmail.com");
-            Contact Grubb = new Contact("Grubb" , "ats@gmail.com");
+            Contact Hudson = new Contact("Hudson" , "hud@gmail.com");
+            Contact Grubb = new Contact("Grubb" , "grubb@gmail.com");
             Address addPeople = new Address();
             addPeople.setPerson(Hudson);
             addPeople.setPerson(Grubb);
